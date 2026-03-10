@@ -1,24 +1,9 @@
-<footer class="bg-gray-800 text-white py-8 mt-12">
-  <div class="container mx-auto px-4">
-    <div class="flex flex-col md:flex-row justify-between items-center">
-      <div class="mb-4 md:mb-0">
-        <a href="/" class="text-xl font-bold">{{ site.title | escape }}</a>
-        <p class="text-gray-400 text-sm mt-1">{{ site.description | escape }}</p>
-      </div>
-      <div class="flex space-x-4">
-        {% if site.social_links.twitter != "#" %}
-          <a href="{{ site.social_links.twitter }}" class="text-gray-400 hover:text-white">Twitter</a>
-        {% endif %}
-        {% if site.social_links.facebook != "#" %}
-          <a href="{{ site.social_links.facebook }}" class="text-gray-400 hover:text-white">Facebook</a>
-        {% endif %}
-        {% if site.social_links.telegram != "#" %}
-          <a href="{{ site.social_links.telegram }}" class="text-gray-400 hover:text-white">Telegram</a>
-        {% endif %}
-      </div>
-    </div>
-    <div class="border-t border-gray-700 mt-6 pt-6 text-center text-gray-400 text-sm">
-      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title | escape }}. All rights reserved.</p>
+<footer class="bg-gray-900 text-gray-400 py-8 mt-12">
+  <div class="container mx-auto px-4 text-center">
+    <p class="mb-4">&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+    <div class="flex justify-center space-x-4">
+      <a href="#" class="hover:text-white transition">Twitter</a>
+      <a href="#" class="hover:text-white transition">GitHub</a>
     </div>
   </div>
 </footer>
