@@ -1,17 +1,18 @@
-
 title: "Jekyll SEO News Theme"
 description: "A professional Jekyll theme for news/blog website optimized for Bing SEO with TailwindCSS."
-keywords: "Jekyll, SEO, Blog, News, Theme, Bing, Yandex, TailwindCSS"
+keywords: "Jekyll, SEO, Blog, News, Theme, Bing, TailwindCSS"
 author: "clashwindow"
 url: "https://clashwindow.github.io"
 baseurl: ""
 logo: "/assets/images/logo.png"
+
 social_links:
   twitter: "#"
   facebook: "#"
   telegram: "#"
   reddit: "#"
   whatsapp: "#"
+
 indexnow:
   key: "8575fe8139f14b2da85e40bbc8b86ce2"
   host: "clashwindow.github.io"
@@ -19,6 +20,8 @@ indexnow:
 # Site settings
 permalink: /:categories/:title/
 markdown: kramdown
+highlighter: rouge
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
