@@ -1,0 +1,90 @@
+name: IndexNow - Submit New Posts to Bing
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/**'
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get new or modified posts
+        id: get-posts
+        run: |
+          # 获取本次 push 中新增或修改的 _posts 文件
+          CHANGED=$(git diff --name-only HEAD~1 HEAD -- "_posts/" 2>/dev/null || git show --name-only --format="" HEAD -- "_posts/")
+          echo "Changed files: $CHANGED"
+          
+          URLS=""
+          for file in $CHANGED; do
+            if [ -f "$file" ]; then
+              # 从 front matter 提取 permalink
+              PERMALINK=$(grep -m1 "^permalink:" "$file" | sed 's/permalink: *//;s/["']//g;s/^ *//;s/ *$//')
+              if [ -n "$PERMALINK" ]; then
+                URL="https://clashwindow.github.io${PERMALINK}"
+              else
+                # 从文件名生成 URL: 2026-03-10-post-title.md -> /post-title/
+                BASENAME=$(basename "$file" .md)
+                SLUG=$(echo "$BASENAME" | sed 's/^[0-9]*-[0-9]*-[0-9]*-//')
+                URL="https://clashwindow.github.io/${SLUG}/"
+              fi
+              echo "URL: $URL"
+              if [ -z "$URLS" ]; then
+                URLS="\"$URL\""
+              else
+                URLS="$URLS, \"$URL\""
+              fi
+            fi
+          done
+          echo "urls=$URLS" >> $GITHUB_OUTPUT
+          echo "has_urls=$([ -n "$URLS" ] && echo true || echo false)" >> $GITHUB_OUTPUT
+
+      - name: Submit to IndexNow (Bing)
+        if: steps.get-posts.outputs.has_urls == 'true'
+        run: |
+          URLS="${{ steps.get-posts.outputs.urls }}"
+          echo "Submitting URLs to Bing IndexNow: $URLS"
+          
+          RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d "{
+              \"host\": \"clashwindow.github.io\",
+              \"key\": \"8575fe8139f14b2da85e40bbc8b86ce2\",
+              \"keyLocation\": \"https://clashwindow.github.io/8575fe8139f14b2da85e40bbc8b86ce2.txt\",
+              \"urlList\": [$URLS]
+            }")
+          
+          HTTP_CODE=$(echo "$RESPONSE" | tail -1)
+          BODY=$(echo "$RESPONSE" | head -1)
+          echo "Response code: $HTTP_CODE"
+          echo "Response body: $BODY"
+          
+          if [ "$HTTP_CODE" = "200" ] || [ "$HTTP_CODE" = "202" ]; then
+            echo "✅ Bing IndexNow submission successful!"
+          else
+            echo "⚠️ Bing IndexNow returned: $HTTP_CODE"
+          fi
+
+      - name: Submit to Yandex IndexNow
+        if: steps.get-posts.outputs.has_urls == 'true'
+        run: |
+          URLS="${{ steps.get-posts.outputs.urls }}"
+          RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "https://yandex.com/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d "{
+              \"host\": \"clashwindow.github.io\",
+              \"key\": \"8575fe8139f14b2da85e40bbc8b86ce2\",
+              \"keyLocation\": \"https://clashwindow.github.io/8575fe8139f14b2da85e40bbc8b86ce2.txt\",
+              \"urlList\": [$URLS]
+            }")
+          HTTP_CODE=$(echo "$RESPONSE" | tail -1)
+          echo "Yandex response: $HTTP_CODE"
+          echo "✅ Done"
