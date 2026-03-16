@@ -12,7 +12,7 @@ tags:
   - "有俄罗斯节点的梯子"
   - "clash节点免费订阅地址怎么用"
 keywords: "Ssr节点2月15日,豆包节点_免费的SSR/V2ray/Clash节点分享,clash香港节点免费分享,免费Clash梯子,v2节点免费,有俄罗斯节点的梯子,clash节点免费订阅地址怎么用"
-description: ""
+description: "本文详细解答clash共享给局域网设置后其他设备连不上还能用吗，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)

@@ -10,7 +10,7 @@ tags:
   - "clash香港节点免费"
   - "如何设置节点"
 keywords: "clash配置导入不进去,免费机场下载,节点之家稳定收益,clash香港节点免费,如何设置节点"
-description: ""
+description: "本文深度评测clash规则模式是什么现在还能用吗，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)

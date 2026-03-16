@@ -12,7 +12,7 @@ tags:
   - "TG国内直连代理"
   - "ssr线路购买官网"
 keywords: "每日更新免费公益机场,clash怎么配置url,小飞机服务器节点购买,clash节点怎么买,clash电脑版教程,TG国内直连代理,ssr线路购买官网"
-description: ""
+description: "本文深度评测Clash官方正app下载链接还能用吗以及目前主流平台的获取渠道，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/机场订阅免费.png)

@@ -10,7 +10,7 @@ tags:
   - "clash高速节点"
   - "ssr机场什么意思"
 keywords: "三分机场官网,clashmeta干啥用的,v2ray免费节点米贝,clash高速节点,ssr机场什么意思"
-description: ""
+description: "本文深度评测clash共享给局域网使用还能用吗以及具体配置步骤，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/机场订阅免费.png)

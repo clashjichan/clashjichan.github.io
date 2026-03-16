@@ -10,7 +10,7 @@ tags:
   - "clash机场免费50G"
   - "clash官网版下载clash官网中文版最新"
 keywords: "clash买节点,安卓clash下载-百度,clashx免费节点,clash机场免费50G,clash官网版下载clash官网中文版最新"
-description: ""
+description: "本文深度评测clash的yaml文件在哪可以找到以及是否还能用，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/最新机场推荐.png)

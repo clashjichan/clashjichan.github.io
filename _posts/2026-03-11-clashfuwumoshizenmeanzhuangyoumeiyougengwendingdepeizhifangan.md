@@ -12,7 +12,7 @@ tags:
   - "clash订阅官网"
   - "小蓝猫clash"
 keywords: "节点之家稳定收益,鳄鱼机场clash最新版本更新内容,shadowsock续费,免费节点每日更新,机场节点免费使用,clash订阅官网,小蓝猫clash"
-description: ""
+description: "本文深度评测clash服务模式怎么安装有没有更稳定的配置方案，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/一元机场订阅.png)

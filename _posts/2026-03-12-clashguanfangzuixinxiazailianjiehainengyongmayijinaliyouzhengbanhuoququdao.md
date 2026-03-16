@@ -12,7 +12,7 @@ tags:
   - "机场1元订阅地址是什么"
   - "机场clash"
 keywords: "免费飞机节点,ClashX配置教程,樱花喵加速器官网,clash安卓2.5.12,clash付费节点购买,机场1元订阅地址是什么,机场clash"
-description: ""
+description: "本文深度评测clash官方最新下载链接还能用吗以及哪里有正版获取渠道，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/免费订阅机场.png)

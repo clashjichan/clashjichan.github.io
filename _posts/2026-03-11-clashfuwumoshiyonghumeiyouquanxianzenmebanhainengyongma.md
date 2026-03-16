@@ -11,7 +11,7 @@ tags:
   - "免费clash订阅源"
   - "免费shadow节点二维码"
 keywords: "clash节点免费,每天试用一小时的梯子,clash免费配置下载,clash怎么中文,免费clash订阅源,免费shadow节点二维码"
-description: ""
+description: "本文详细解答clash服务模式用户没有权限怎么办还能用吗，提供最新可用的 Clash 节点、小火箭节点订阅链接，分析节点稳定性与连接速度，帮助用户找到最佳的科学上网方案。"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/免费clash节点.png)

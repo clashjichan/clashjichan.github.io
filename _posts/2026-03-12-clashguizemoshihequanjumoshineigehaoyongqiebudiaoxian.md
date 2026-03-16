@@ -10,7 +10,7 @@ tags:
   - "免费节点分享技术分享"
   - "可以加速外国网站的加速器"
 keywords: "2025好用的机场,clashMeta免费节点URL,节点试用一小时,免费节点分享技术分享,可以加速外国网站的加速器"
-description: ""
+description: "本文深度评测clash规则模式和全局模式哪个好用且不掉线，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)

@@ -12,7 +12,7 @@ tags:
   - "clash节点云"
   - "clashX官方下载入口"
 keywords: "clashwindows怎么用,Clash节点配置教程,稳定的机场推荐,clash是干嘛的软件,付费机场,clash节点云,clashX官方下载入口"
-description: ""
+description: "本文深度评测clash规则导入在哪里找好用的订阅链接，对比多款主流机场的节点稳定性、连接速度与性价比，推荐适合 Clash 和小火箭用户的优质机场服务，附免费节点订阅地址。"
 ---
 
 ![Clash 推荐图](https://clashjd.github.io/assets/img/clash节点推荐.png)
