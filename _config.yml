@@ -2,7 +2,7 @@ title: "Clash节点推荐 | 免费机场节点"
 description: "提供最新Clash免费节点、机场节点推荐、Clash for Windows使用教程、小火箭节点订阅地址，每日更新clash代理节点免费分享。"
 keywords: "飞机场节点,节点推荐,clash for windows,clash代理节点免费,小火箭节点,clash免费节点,clash代理节点免费"
 author: "clashwindow"
-url: "https://clashwindow.github.io"
+url: "https://clashjichan.github.io"
 baseurl: ""
 logo: "/assets/images/logo.png"
 social_links:
@@ -13,7 +13,7 @@ social_links:
   whatsapp: "#"
 indexnow:
   key: "1fe0058fde854846b6dbf42dcfc38a20"
-  host: "clashwindow.github.io"
+  host: "clashjichan.github.io"
   key_location: "/1fe0058fde854846b6dbf42dcfc38a20.txt"
 permalink: /:title/
 markdown: kramdown
