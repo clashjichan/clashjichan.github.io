@@ -102,8 +102,6 @@ description: "为什么Clash开TUN模式就没网？常见原因和解决办法
       - 240.0.0.0/4</code></pre>
 <p>注意：`enhanced-mode: fake-ip` 是TUN模式常用的配置，它使用虚假IP处理DNS，可以避免某些DNS泄露问题，但有时也可能引起兼容性问题。如果默认配置包含此项且有问题，可以尝试将其改为 `redir-host` 或 `mixed` 测试，但这通常需要服务商的配置支持。
 
-![clash verge免费节点](/img/clash%20verge%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
 </p>
 </li>
 <li>**检查TUN模式相关配置：** 在配置文件的`tun:`部分，确保`enable: true`。其他参数如`stack`（可选lwip或gvisor，不同系统和环境可能表现不同，可以切换尝试）和`auto-route`、`auto-detect-interface`等，通常服务商的订阅会包含优化过的配置，尽量使用订阅自带的。如果手动修改，需要非常小心。</li>
@@ -111,9 +109,6 @@ description: "为什么Clash开TUN模式就没网？常见原因和解决办法
 </ul>
 <p><h4>步骤三：测试不同的Clash 节点和协议</h4>
 </p>
-
-![小火箭机场](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA.png)
-
 
 <p>即使订阅链接是新的，某个特定的Clash 节点可能正在维护、流量跑满或者被墙。在Clash界面中，进入代理（Proxies）或节点列表，手动切换到不同的节点进行测试。优先选择延迟较低（通过节点测速功能查看）且负载看起来不高的节点。尝试使用不同协议的节点，比如SSR、Trojan、Vless、Vmess（常用于V2Ray订阅）等，有时候问题可能与特定协议在你的网络环境下表现不佳有关。</p>
 <p>进行节点测速非常重要。在Clash的代理页面，通常会有“测速”按钮。点击后，Clash会检测每个节点的延迟。选择延迟稳定且低的节点进行连接测试。如果大部分节点测速失败或延迟极高，那很可能是整个订阅服务或服务商的线路有问题。</p>
@@ -175,10 +170,6 @@ description: "为什么Clash开TUN模式就没网？常见原因和解决办法
 </ul>
 <p>简单对比一下TUN模式和普通Proxy模式可能遇到的问题：</p>
 
-
-
-![clash for windows节点](/img/clash%20for%20windows%E8%8A%82%E7%82%B9.png)
-
 机场名称：AmyTelecom
 
 <h2>AmyTelecom（奶昔 Nexitally 关联品牌）高端专线测评</h2>
@@ -210,7 +201,6 @@ description: "为什么Clash开TUN模式就没网？常见原因和解决办法
 晚高峰表现：8.5  
 解锁能力：8.8  
 性价比：8.0
-
 
 <table>
 <tr>

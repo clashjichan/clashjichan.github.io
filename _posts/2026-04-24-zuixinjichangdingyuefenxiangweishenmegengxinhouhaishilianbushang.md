@@ -13,10 +13,7 @@ keywords: "clash试用订阅链接怎么用,Tor网络节点的加入方式,可�
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
-
 ## 最新机场订阅分享为什么更新后还是连不上？
-
 
 <p>很多人第一次找<strong>最新机场订阅分享</strong>，其实不是为了“多几个节点”，而是为了赶紧把手头的问题解决掉：晚高峰刷不出页面、视频一直转圈、工作软件连不上、手机端订阅更新后反而报错。说实话，这类问题在 <strong>Clash订阅</strong>、<strong>clash for windows</strong>、<strong>clash for android</strong>、甚至 <strong>小火箭免费节点</strong> 场景里都很常见，表面看像是软件坏了，实际往往是节点本身不稳。</p>
 

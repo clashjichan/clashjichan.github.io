@@ -80,10 +80,6 @@ description: "为什么 Clash 无法导入？原因分析与常见解决方法
   <tr><td>免费 URL 订阅 3</td><td>https://ktmcloud.example.com/sub/free3</td></tr>
 </table>
 
-![clash for windows免费节点](/img/clash%20for%20windows%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
-
-
 <blockquote>
 测速体验：本地晚间 20:30 测了三轮，香港节点下载速度在 320-480Mbps 之间浮动，日本节点大概 180-260Mbps，新加坡节点最稳，基本能维持在 250Mbps 左右。YouTube 4K 基本秒开，B站、Netflix、Disney+ 也都能正常跑，流媒体解锁算是加分项。晚高峰时偶尔会有轻微抖动，但没有明显卡顿，刷网页、开会、看视频都不影响。缺点也有，欧洲节点延迟偏高，且个别小众地区不算多；另外高峰期切节点时偶尔会慢半拍。
 </blockquote>
@@ -93,7 +89,6 @@ description: "为什么 Clash 无法导入？原因分析与常见解决方法
   <p>评分：8.6/10</p>
   <p>优点：流量大、价格亲民、节点够用、流媒体解锁不错、日常速度稳定。</p>
   <p>缺点：欧洲节点一般、小众地区少、晚高峰切换节点略慢。</p>
-
 
 <h4>节点测速与稳定性对比</h4>
 <p>在 Clash 中，您可以利用内置的节点测速功能来评估不同节点的连接质量。通常，您可以关注以下几个方面进行对比：</p>
@@ -121,9 +116,6 @@ description: "为什么 Clash 无法导入？原因分析与常见解决方法
   <tr><td>https://sub1.meslcloud.example/free</td></tr>
   <tr><td>https://sub2.meslcloud.example/free</td></tr>
   <tr><td>https://sub3.meslcloud.example/free</td></tr>
-
-
-![clash verge免费节点](/img/clash%20verge%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
 
 </table>
 
@@ -185,8 +177,6 @@ description: "为什么 Clash 无法导入？原因分析与常见解决方法
   <p>综合评分：8.4/10</p>
   <p>推荐人群：新手、日常办公、流媒体轻度用户</p>
   <p>一句话总结：简单、顺手、够稳定，属于用起来不费脑子的那种。
-
-![免费clash](/img/%E5%85%8D%E8%B4%B9clash.png)
 
 </p>
 

@@ -18,7 +18,6 @@ description: "如何在 clash airport official site 找到可靠的节点服务
 FlyingBird（飞鸟机场）- 全IEPL专线，性价比高，大流量档位丰富
 FlyingBird（飞鸟机场）"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
 
 <h2>如何在 clash airport official site 找到可靠的节点服务</h2>
 机场名称：FlyingBird（飞鸟机场）

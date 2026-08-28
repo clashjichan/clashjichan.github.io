@@ -18,7 +18,6 @@ description: "如何找到可用 Clash 配置文件免费 URL？
 KTM Cloud 测评：TB+ 大流量里性价比比较能打的一家
 KTM Cloud 这类机场我前后用过几次，最直观的印象就是“流量给得很大方，价格却不算高”。"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
 
 <h2>如何找到可用 Clash 配置文件免费 URL？</h2>
 机场名称：KTM Cloud

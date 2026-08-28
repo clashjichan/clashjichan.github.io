@@ -99,9 +99,6 @@ description: "为什么 Clash 订阅失败？排查与解决指南
   <tr><td>标准版</td><td>￥28/月</td><td>300GB</td><td>主流推荐</td></tr>
   <tr><td>旗舰版</td><td>￥48/月</td><td>800GB</td><td>适合多设备和长时间使用</td></tr>
 
-
-![clash verge免费节点](/img/clash%20verge%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
 </table>
 
 <table>
@@ -113,21 +110,12 @@ description: "为什么 Clash 订阅失败？排查与解决指南
 
 <p>流媒体解锁方面，实测 Netflix、Disney+、YouTube Premium 都能正常打开，香港节点对本地内容支持也不错。晚高峰时段大概在 19:30 到 22:00 之间，香港和日本节点偶尔会有轻微波动，但整体还能保持可用，平均延迟在 65ms-120ms 左右，下载速度大约 120Mbps-260Mbps，刷 4K 视频基本没压力。美国节点速度稍慢一些，不过稳定性还行。</p>
 
-![clash订阅](/img/clash%E8%AE%A2%E9%98%85.png)
-
-
-
 <blockquote>
 测速体验：我在晚高峰用香港节点测了一次，Ping 72ms，下载 186Mbps，上传 34Mbps；日本节点 Ping 89ms，下载 158Mbps。日常网页加载很快，视频几乎不用缓冲，切换节点也比较顺。最大的感受就是“界面简洁”这点名副其实，操作一步到位，不需要来回找功能。缺点也有，部分热门节点在高峰期会出现轻微拥挤，另外高级线路数量不算特别多。
 </blockquote>
 
-![clash for windows节点](/img/clash%20for%20windows%E8%8A%82%E7%82%B9.png)
-
-
-
   <strong>评分：8.7/10</strong>
   适合人群：追求操作简单、流量够用、日常稳定上网的用户。总体来看，Nice机场属于那种没有太多花里胡哨功能，但实际体验比较顺手的类型。
-
 
 <ul>
 <li><strong>排查方法：</strong>尝试在不同时间段进行订阅，以排除服务器高峰期响应慢的可能性。</li>

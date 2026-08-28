@@ -18,7 +18,6 @@ description: "如何有效利用 Clash for Windows 进行网络连接？
 狗狗加速 - 节点分布均匀的活跃品牌
 狗狗加速这类节点品牌给我的第一印象就是“更新挺勤快”，不是那种挂着一堆节点但实际可用性一般的老套路。它目前主打的是"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
 
 <h2>如何有效利用 Clash for Windows 进行网络连接？</h2>
 机场名称：狗狗加速

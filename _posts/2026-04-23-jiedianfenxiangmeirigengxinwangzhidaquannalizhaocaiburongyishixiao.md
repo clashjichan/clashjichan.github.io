@@ -15,10 +15,7 @@ keywords: "clashx+配置文件格式是什么,sstap节点获取,discord为什么
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/节点订阅推荐.png)
-
 ## 节点分享每日更新网址大全哪里找才不容易失效？
-
 
 <p>很多人第一次开始找<strong>节点分享每日更新网址大全</strong>，通常不是为了折腾，而是因为手里的节点突然连不上了。晚高峰一开，Clash里一排节点变灰，手机上小火箭也开始转圈，等了几分钟还是没反应，这时候才会意识到：问题不只是“慢”，而是“根本用不了”。</p>
 

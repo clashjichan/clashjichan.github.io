@@ -14,7 +14,6 @@ tags:
 keywords: "节点分享,免费订阅,机场节点订阅,免费节点,免费飞机场,节点订阅,Clash for Windows"
 description: "为什么 Clash 的 Proxies 的 Rule 里面啥也没有啊？ 最近不少用户在配置 Clash 客户端时遇到了一个困扰：在查看节点列表或规则集时，发现 Proxies 下的 Rule 部分为空白，这让大家开始疑惑，“为啥 Clash"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
 
 <h2>为什么 Clash 的 Proxies 的 Rule 里面啥也没有啊？</h2> <p>最近不少用户在配置 Clash 客户端时遇到了一个困扰：在查看节点列表或规则集时，发现 Proxies 下的 Rule 部分为空白，这让大家开始疑惑，“为啥 Clash 的 Proxies 的 Rule 里面啥也没有啊？”。实际上，这种情况通常并非软件本身的故障，而是与您所使用的订阅链接或配置文件的结构有关。理解这一点是解决问题的关键。</p>
 机场名称：大哥云

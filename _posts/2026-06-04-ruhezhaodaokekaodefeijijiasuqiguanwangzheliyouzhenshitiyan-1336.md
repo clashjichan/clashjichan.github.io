@@ -18,7 +18,6 @@ description: "如何找到可靠的飞机加速器官网？这里有真实体验
 ImmortalCloud（不朽云）测评：主打 IEPL 专线的低延迟线路体验
 ImmortalCloud（不朽云）这段时间在圈子里讨论度不低，"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
 
 <h2>如何找到可靠的飞机加速器官网？这里有真实体验</h2>
 机场名称：ImmortalCloud（不朽云）

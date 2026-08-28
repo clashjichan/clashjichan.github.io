@@ -18,7 +18,6 @@ description: "为什么clash关闭后网页打不开，怎么办？
 Nexitally（奶昔机场）测评：行业标杆，自主开发面板，顶级专线
 Nexitally（奶昔机场）算是老牌里比较稳的一家，主打自研面板和高质量专线，整"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费机场节点推荐.png)
 
 <h2>为什么clash关闭后网页打不开，怎么办？</h2>
 机场名称：Nexitally（奶昔机场）

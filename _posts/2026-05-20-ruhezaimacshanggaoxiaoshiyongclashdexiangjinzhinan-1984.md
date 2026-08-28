@@ -14,7 +14,6 @@ tags:
 keywords: "免费机场,机场节点,clash使用,Clash节点,免费订阅,clash节,美国节点下载"
 description: "如何在Mac上高效使用Clash的详尽指南 在数字时代，网络自由和稳定访问海外资源的需求日益增长。对于许多用户而言，Clash以其强大的功能和灵活的配置方式成为了首选工具。本文将为您提供一份详尽的clash使用指南，帮助您在Mac操作系统上"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
 
 <h2>如何在Mac上高效使用Clash的详尽指南</h2> <p>在数字时代，网络自由和稳定访问海外资源的需求日益增长。对于许多用户而言，Clash以其强大的功能和灵活的配置方式成为了首选工具。本文将为您提供一份详尽的<strong>clash使用指南</strong>，帮助您在Mac操作系统上更好地配置和使用Clash，享受流畅的网络体验。</p> <h3>一、 Clash for Windows/macOS 基础安装与配置</h3> <p>首先，我们需要获取并安装适用于macOS的Clash客户端。目前市面上比较流行的有ClashX（主要为macOS设计）和直接使用通用Clash内核配合GUI管理工具。</p>
 机场名称：TopCloud

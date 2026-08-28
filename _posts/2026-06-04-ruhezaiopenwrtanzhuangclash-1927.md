@@ -18,7 +18,6 @@ description: "如何在 OpenWrt 安装 Clash
 Runway-BGP专线测评
 Runway-BGP这家我前段时间断断续续用了两周，整体感受就是“稳”。它主打 BGP 专线线路，入口和中转切得比较干净，日常刷网页、"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/付费机场订阅.png)
 
 <h2>如何在 OpenWrt 安装 Clash</h2>
 机场名称：Runway-BGP

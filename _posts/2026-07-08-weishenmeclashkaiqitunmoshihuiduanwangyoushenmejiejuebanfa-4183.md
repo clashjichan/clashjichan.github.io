@@ -19,7 +19,6 @@ description: "为什么Clash开启TUN模式会断网，有什么解决办法？
 
 飞天猪（fliggycloud）算是近期比较活跃的一家性价比机场，主打低门槛和"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
 
 <h2>为什么Clash开启TUN模式会断网，有什么解决办法？</h2>
 机场名称：飞天猪（fliggycloud）

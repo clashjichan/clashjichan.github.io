@@ -17,7 +17,6 @@ description: "如何找到可靠的香港机场官网首页并选择服务
 FlowerCloud（花云）测评：高稳定性高端机场，节点覆盖广
 FlowerCloud（花云）给我的第一印象就是“稳”。它属于那种典型的高端机场风格，界面"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅地址.png)
 
 <h2>如何找到可靠的香港机场官网首页并选择服务</h2>
 机场名称：FlowerCloud（花云）

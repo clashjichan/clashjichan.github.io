@@ -13,10 +13,7 @@ keywords: "clash现在还能用吗,ios美区小火箭多少钱,国内能上谷�
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费clash节点.png)
-
 ## url节点分享为什么总是失效，应该怎么判断还能不能用？
-
 
 <p>很多人第一次接触 <strong>url节点分享</strong>，都是在一个很具体的场景里：晚上下班后想打开 Clash for Windows 或 clash for android，结果订阅一刷新，节点不是连不上，就是延迟飘高；有时候上午还能用，晚高峰一到就开始掉线。更麻烦的是，别人发来的 Clash订阅 看起来很正常，复制进去却提示更新失败，连 <strong>Clash免费节点</strong> 也很快失效。这个时候，用户通常不是“想换工具”，而是“想先把今天能用的节点找回来”。</p>
 

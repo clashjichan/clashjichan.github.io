@@ -18,7 +18,6 @@ description: "为什么Clash关闭后电脑无法上网？以及解决办法
 yunti（一云梯）- 新兴性价比机场，支持定制化业务
 yunti（一云梯）这家我最近刚上手测了一轮，属于那种新出来但完成度还不错的机场，整体主打性价比和可"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
 
 <h2>为什么Clash关闭后电脑无法上网？以及解决办法</h2>
 机场名称：yunti（一云梯）

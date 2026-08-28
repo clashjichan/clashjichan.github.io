@@ -19,7 +19,6 @@ description: "如何找到适合你的 Clash 节点服务？
 
 桔子云算是圈子里比较早一批做起来的机场之一了，整体给人的感觉就是“老牌但没掉队”。目前仍然保持着较大的运营规模，节点数量不算少，"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
 
 <h2>如何找到适合你的 Clash 节点服务？</h2>
 机场名称：桔子云

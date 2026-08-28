@@ -15,10 +15,7 @@ keywords: "节点小宝访问mysql,机场推荐知乎,v2ray怎么配置,clash用
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费节点订阅.png)
-
 ## URL节点分享链接被拦截怎么解决？分享后打不开、订阅更新失败该怎么办
-
 
 <p>很多人第一次遇到这个问题，都是在最需要网络的时候：晚高峰想切到备用线路，结果 <strong>URL节点分享链接被拦截怎么解决</strong> 这类报错突然弹出来；或者朋友发来的订阅链接，复制到 <strong>clash for windows</strong>、<strong>clash for android</strong>、小火箭里后，显示无法导入、下载失败、内容为空。看起来只是一个链接失效，实际上往往会直接影响当天能不能正常上网。</p>
 

@@ -18,7 +18,6 @@ description: "如何找到可靠的飞机加速器官网？这里有真实体验
 WgetCloud(原GaCloud)-高端稳定，支持亚马逊专线加速。
 WgetCloud（原 GaCloud）这家机场我前后断断续续用了快两"
 ---
-![Clash节点推荐](https://1yuanjichang.github.io/img/clash免费节点.png)
 
 <h2>如何找到可靠的飞机加速器官网？这里有真实体验</h2>
 机场名称：WgetCloud(原GaCloud)

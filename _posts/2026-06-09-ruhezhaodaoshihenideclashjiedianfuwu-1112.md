@@ -18,7 +18,6 @@ description: "如何找到适合你的 Clash 节点服务？
 ImmortalCloud（不朽云）测评：主打 IEPL 专线的低延迟线路体验
 ImmortalCloud（不朽云）这段时间在圈子里讨论度不低，主打"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐.png)
 
 <h2>如何找到适合你的 Clash 节点服务？</h2>
 机场名称：ImmortalCloud（不朽云）

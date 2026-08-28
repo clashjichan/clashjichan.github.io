@@ -44,10 +44,6 @@ description: "为什么Clash开启TUN模式会断网，有什么解决办法？
   <tr><td>旗舰版</td><td>￥50/月</td><td>800GB/月</td></tr>
 </table>
 
-![clash免费节点](/img/clash%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
-
-
 <table>
   <tr><th>免费URL订阅链接</th></tr>
   <tr><td>https://sub.haite.example/free1</td></tr>
@@ -65,17 +61,8 @@ description: "为什么Clash开启TUN模式会断网，有什么解决办法？
 
   综合评分：8.4/10
 
-![小火箭机场](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA.png)
-
-
-
-
 <h4>基础排查步骤</h4>
 <p>首先，从最简单的操作开始，有时候小问题通过简单的重启就能解决：
-
-
-
-![免费clash](/img/%E5%85%8D%E8%B4%B9clash.png)
 
 机场名称：Runway-BGP
 

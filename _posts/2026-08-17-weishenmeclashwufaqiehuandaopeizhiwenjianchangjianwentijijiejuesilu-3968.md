@@ -58,10 +58,6 @@ description: "为什么 C免费飞机场节点网站lash 无法切换到配置�
   <tr><td>免费URL订阅3</td><td>https://sub.yepfast.example/free3</td></tr>
 </table>
 
-
-
-![clash verge免费节点](/img/clash%20verge%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
 <blockquote>
 测速体验：我用晚上的高峰时段测了一轮，香港节点本地延迟大概 28ms，东京 62ms，新加坡 71ms，美国洛杉矶约 156ms。YouTube 4K 基本秒开，B 站和 Twitter 刷图很顺，Telegram 语音也没卡顿。晚高峰时段有轻微波动，但没有出现明显丢包，整体还是属于“能稳稳用”的那种。解锁方面，Netflix 日区和新加坡区都能正常进，播放速度也比较稳定。唯一的小问题是个别冷门节点在切换时会慢半拍，不过日常影响不大。
 </blockquote>
@@ -93,9 +89,6 @@ description: "为什么 C免费飞机场节点网站lash 无法切换到配置�
 <h4>5. 尝试其他配置管理方式</h4>
 <p>如果上述方法都无法解决<strong>为什么 Clash 无法切换到配置文件</strong>的问题，不妨尝试一些其他的配置管理方法。</p>
 
-![小火箭节点](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%8A%82%E7%82%B9.png)
-
-
 <ul>
 <li><strong>手动导入配置文件：</strong> 直接将下载好的 YAML 文件（例如从某个节点分享网站获取）放置到 Clash 客户端指定的配置文件目录下，然后手动选择加载该文件。</li>
 <li><strong>使用第三方辅助工具：</strong> 一些第三方工具可以帮助您更便捷地管理 Clash 的配置文件，如导入订阅、合并配置、一键切换等。但使用第三方工具时，请确保其来源可靠，避免引入安全风险。</li>
@@ -126,10 +119,6 @@ description: "为什么 C免费飞机场节点网站lash 无法切换到配置�
   <tr><td>https://sub.example.com/ccbq02</td></tr>
   <tr><td>https://sub.example.com/ccbq03</td></tr>
 </table>
-
-![clash订阅](/img/clash%E8%AE%A2%E9%98%85.png)
-
-
 
 <p>节点方面，实测可用地区大概有香港、台湾、日本东京、大阪、新加坡、洛杉矶、芝加哥、英国伦敦和德国法兰克福等，数量不算夸张，但胜在活跃，节点更新频率挺高。流媒体解锁这块表现也还行，Netflix、Disney+、YouTube Premium 基本没问题，B站港澳台区和部分日区内容也能正常打开，偶尔个别节点会抽风，但切一下通常就好了。</p>
 

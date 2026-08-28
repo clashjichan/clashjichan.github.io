@@ -29,10 +29,6 @@ description: "为什么clash关闭后打不开网页？可能是这些设置问�
 </ul>
 <p>如果以上方法试过后，“clash关闭后打不开网页”的问题依然存在，那很可能是系统代理设置没有被恢复，需要你手动去检查和修正。</p>
 
-
-
-![clash免费节点](/img/clash%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
 机场名称：Hiclouder
 
 <h2>Hiclouder 节点以亚洲地区为主，优化了到中国大陆的连接速度</h2>
@@ -49,9 +45,6 @@ description: "为什么clash关闭后打不开网页？可能是这些设置问�
   <tr><td>免费URL订阅2</td><td>https://hiclouder.example.com/sub/free2</td></tr>
   <tr><td>免费URL订阅3</td><td>https://hiclouder.example.com/sub/free3</td></tr>
 
-
-![clash for windows免费节点](/img/clash%20for%20windows%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
 </table>
 
 <blockquote>
@@ -61,7 +54,6 @@ description: "为什么clash关闭后打不开网页？可能是这些设置问�
 <p>节点地区方面，Hiclouder 目前更偏向香港、新加坡、日本、台湾这些亚洲热门区域，欧美节点有但不算多，所以它不是那种“全球大杂烩”类型。优点很明显：连接速度快、对大陆友好、价格不贵、上手简单；缺点也有，像高峰期少数节点会排队，另外高级玩法和冷门国家覆盖不算丰富。整体看下来，如果你更在意稳定和日常体验，Hiclouder 算是挺省心的选择。</p>
 
   评分：8.6/10。适合重视亚洲线路、日常使用为主、想要中国大陆连接体验更顺手的用户。
-
 
 <h3>手动检查并重置系统代理设置</h3>
 <p>系统代理设置是“clash关闭后打不开网页”最常见的根本原因。Clash 等工具通常通过修改这个设置来接管网络流量。不同操作系统下检查和修改的方法略有不同：
@@ -91,10 +83,6 @@ description: "为什么clash关闭后打不开网页？可能是这些设置问�
 <blockquote>
 测速体验：白天基本是打开即连，YouTube 4K 没压力，B站和网页加载很快。晚高峰 20:00 到 23:00 之间，香港节点偶尔会有轻微抖动，但整体还能保持在可用范围内，刷视频基本不断流。Netflix 和 Disney+ 大多数时候可解锁，Prime Video 也能正常看，日常流媒体需求是够的。
 </blockquote>
-
-![clash for android](/img/clash%20for%20android.png)
-
-
 
 <p>优点是界面真的简单，订阅和切换节点很省心，适合怕麻烦的人；缺点是高级功能不多，节点数量不算特别夸张，遇到高峰时段个别线路会有波动。如果你主要追求易用、稳定、流量够用，SimpleCloud 算是个比较省心的选择。</p>
 

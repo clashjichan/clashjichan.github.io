@@ -18,7 +18,6 @@ description: "为什么 Clash 电脑版连不上？常见问题及解决思路
 ChickenRun 机场测评
 ChickenRun 主打“每日签到领免费流量”和“大流量付费套餐”，整体定位比较明确：适合想先白嫖试用、再按需升级的用"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/最新机场推荐.png)
 
 <h2>为什么 Clash 电脑版连不上？常见问题及解决思路</h2>
 机场名称：ChickenRun

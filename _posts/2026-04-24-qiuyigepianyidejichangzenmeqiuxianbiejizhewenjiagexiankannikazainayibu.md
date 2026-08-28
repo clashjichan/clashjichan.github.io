@@ -13,8 +13,6 @@ keywords: "免流节点混淆,clash手机端,国内用twitter怎么用,美国dis
 description: "<p>很多人第一次搜“<strong>求一个便宜的机场怎么求</strong>”，其实不是想占便宜，而是想先把眼前的问题解决掉：晚高峰连不上、Clash订阅更新失败、节点突然全红、手机能用电脑不能用。你可能已经试过 <strong>clash for windows</strong>、<strong>clash for android</strong>，甚至找过 <strong>Clash免费节点</strong> 和 <strong>小火箭免费节点</strong>，结果不是速度像蜗牛，就是第二天就失效。真正让人烦的，不是“贵一点”，而是花了时间还没解决问题。</p>"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场节点购买.png)
-
 ## 求一个便宜的机场怎么求？先别急着问价格，先看你卡在哪一步
 
 <p>很多人第一次搜“<strong>求一个便宜的机场怎么求</strong>”，其实不是想占便宜，而是想先把眼前的问题解决掉：晚高峰连不上、Clash订阅更新失败、节点突然全红、手机能用电脑不能用。你可能已经试过 <strong>clash for windows</strong>、<strong>clash for android</strong>，甚至找过 <strong>Clash免费节点</strong> 和 <strong>小火箭免费节点</strong>，结果不是速度像蜗牛，就是第二天就失效。真正让人烦的，不是“贵一点”，而是花了时间还没解决问题。</p>

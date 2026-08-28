@@ -18,7 +18,6 @@ description: "为什么Clash开启TUN模式会断网，有什么解决办法？
 ImmortalCloud（不朽云）测评：主打 IEPL 专线的低延迟线路体验
 ImmortalCloud（不朽云）这段时间在圈子里讨"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点推荐.png)
 
 <h2>为什么Clash开启TUN模式会断网，有什么解决办法？</h2>
 机场名称：ImmortalCloud（不朽云）

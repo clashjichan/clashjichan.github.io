@@ -88,9 +88,6 @@ description: "为什么 Clash 打不开了？常见原因与排查指南
 <tr><td>https://runwaybgp.example.com/sub/mQ8tVn</td><td>备用节点订阅</td></tr>
 <tr><td>https://runwaybgp.example.com/sub/Lr4dZs</td><td>测试专用订阅</td></tr>
 
-
-![v2rayng免费节点](/img/v2rayng%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
 </table>
 
 <blockquote>
@@ -104,8 +101,6 @@ description: "为什么 Clash 打不开了？常见原因与排查指南
 </p>
 <h3>三、 Clash 客户端软件本身的问题</h3>
 <p>除了配置和节点原因外，Clash 客户端软件本身也可能出现问题，导致您遇到“为什么 Clash 打不开了”的困境。
-
-![banner](/img/banner.webp)
 
 </p>
 <h4>1. 客户端版本兼容性</h4>
@@ -183,14 +178,9 @@ description: "为什么 Clash 打不开了？常见原因与排查指南
 测速体验：本次测试在本地 300M 宽带环境下进行，香港节点延迟约 38ms，日本节点约 62ms，新加坡节点约 74ms，美国西海岸约 158ms。下载速度方面，白天峰值能跑到 220Mbps 左右，YouTube 4K 基本没压力。晚高峰时段波动会有一点，香港和日本偶尔掉到 120Mbps 上下，但整体还能保持可用。流媒体解锁方面，Netflix、Disney+ 和 YouTube Premium 表现正常，日区内容也能稳定打开，算是比较省心。
 </blockquote>
 
-![clash免费订阅](/img/clash%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85.png)
-
-
-
 <p>优点方面，鳄鱼机场的节点更新比较快，连通性不错，客服响应也算及时，适合平时用得频繁的人。缺点也有，套餐价格不算特别便宜，而且高峰期偶尔会出现短时抖动，重度用户可能会更在意这一点。总体来看，它是一个“能用、好用、更新勤”的类型，属于近期表现比较活跃、综合体验中上水平的品牌。</p>
 
   综合评分：8.3/10。适合日常上网、追剧、轻度游戏和多地区切换使用，属于实用型机场。
-
 
 <h4>1. Clash for Android / Clash for iOS 配置</h4>
 <p>在移动设备上使用 Clash，配置过程可能略有不同。</p>

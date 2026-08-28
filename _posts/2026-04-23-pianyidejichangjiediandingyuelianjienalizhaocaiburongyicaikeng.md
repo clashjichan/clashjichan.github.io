@@ -13,10 +13,7 @@ keywords: "clash跳直连,clash 局域网 安卓,越狱安装小火箭,ios小火
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/机场订阅免费.png)
-
 ## 便宜的机场节点订阅链接哪里找才不容易踩坑？
-
 
 <p>很多人第一次搜<strong>便宜的机场节点订阅链接</strong>，通常不是为了“便宜”本身，而是遇到了现实问题：晚高峰一连就卡，Clash订阅更新失败，节点用着用着就全灰了。尤其是在 <strong>clash for windows</strong> 或 <strong>clash for android</strong> 里，明明昨天还能用，今天一刷新就提示超时，体验会非常糟糕。</p>
 

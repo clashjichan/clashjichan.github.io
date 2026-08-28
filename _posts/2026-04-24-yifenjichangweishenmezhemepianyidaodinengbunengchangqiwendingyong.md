@@ -13,10 +13,7 @@ keywords: "一元机场节点入口,clash+怎么切换到美国页面,能打开�
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/付费小火箭机场推荐.png)
-
 ## 一分机场为什么这么便宜？到底能不能长期稳定用
-
 
 <p>很多人第一次看到“一分机场”这种价格，都会先怀疑是不是看错了。明明同样写着支持 Clash订阅、可用于 clash for windows 和 clash for android，为什么有的机场推荐动不动就是几块、十几块，而一分机场为什么这么便宜，甚至便宜到像体验价？</p>
 

@@ -18,7 +18,6 @@ description: "为什么 Clash 的系统代理打不开？排查与解决指南
 Starlink(非马斯克星链)机场测评
 Starlink 是一家新近冒出来的机场，主打 Hysteria 协议，整体给人的第一印象就是“快”和“猛”。我这"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash节点推荐购买.png)
 
 <h2>为什么 Clash 的系统代理打不开？排查与解决指南</h2>
 机场名称：Starlink

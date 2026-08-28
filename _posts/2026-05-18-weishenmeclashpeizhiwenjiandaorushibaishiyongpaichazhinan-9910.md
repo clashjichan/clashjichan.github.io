@@ -18,7 +18,6 @@ description: "为什么 Clash 配置文件导入失败？实用排查指南
 ImmortalCloud（不朽云）测评：主打 IEPL 专线的低延迟线路体验
 ImmortalCloud（不朽云）这段时间在圈子里讨论度"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
 
 <h2>为什么 Clash 配置文件导入失败？实用排查指南</h2>
 机场名称：ImmortalCloud（不朽云）

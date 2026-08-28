@@ -76,8 +76,6 @@ description: "为什么clash开启tun模式后无法上网？可能原因与解�
 <li>
 <p><strong>重新安装 TUN 驱动/服务：</strong> 在 Windows 上，TUN 模式依赖 TAP 驱动。尝试在 Clash 设置中找到重新安装或修复 TAP 驱动的选项。如果是在 macOS 上，确保 Clash 在系统偏好设置中获得了完全控制或网络相关的权限。
 
-![clash免费节点](/img/clash%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
 </p>
 
 机场名称：扬帆云(YANGFANYUN)
@@ -100,10 +98,6 @@ description: "为什么clash开启tun模式后无法上网？可能原因与解�
   <tr><td>https://free3.yangfanyun.example/sub</td></tr>
 </table>
 
-![clash for windows免费节点](/img/clash%20for%20windows%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
-
-
 <blockquote>
 测速体验：本地千兆宽带下，香港节点下载峰值跑到 286Mbps，日本节点大概 240Mbps，新加坡节点稳定在 220Mbps 左右，美国节点稍慢一些，约 160Mbps，但网页打开和 4K 视频缓冲都比较干脆。晚高峰 20:00 到 23:00 期间，YouTube 基本无卡顿，Netflix 可正常解锁，Disney+ 也能顺利打开，日常流媒体表现算是加分项。唯一的小问题是部分冷门节点偶尔会有轻微抖动，不过不影响主力使用。
 </blockquote>
@@ -111,7 +105,6 @@ description: "为什么clash开启tun模式后无法上网？可能原因与解�
 <p>优点是节点类型实用、线路稳定、流媒体解锁比较全，适合想省心的人；缺点也很明显，价格不算最低，且新站偶尔会有活动规则变动。整体来看，扬帆云更适合中轻度到中重度用户，尤其是对晚高峰稳定性有要求的朋友，体验会比较舒服。</p>
 
 综合评分：8.6/10。稳定性 8.8，速度 8.4，解锁能力 8.7，性价比 8.3。
-
 
 </li>
 <li>
@@ -206,9 +199,6 @@ description: "为什么clash开启tun模式后无法上网？可能原因与解�
 <ul>
 <li>
 <p>优先检查节点和订阅的有效性及质量。</p>
-
-![clash for windows节点](/img/clash%20for%20windows%E8%8A%82%E7%82%B9.png)
-
 
 </li>
 <li>

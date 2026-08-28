@@ -18,7 +18,6 @@ description: "如何找到可用 Clash 配置文件免费 URL？
 MESL Cloud 测评：优质BGP入口与IPLC内网专线体验
 MESL Cloud 是一类偏实用型的机场服务，主打优质 BGP 入口、IPLC 内网专线"
 ---
-![Clash节点推荐](https://1yuanjichang.github.io/img/clash订阅.png)
 
 <h2>如何找到可用 Clash 配置文件免费 URL？</h2>
 机场名称：MESL Cloud

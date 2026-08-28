@@ -18,7 +18,6 @@ description: "如何找到可用的 sock5 免费代理列表？
 Allblue｜稳定运营多年的老牌专线机场测评
 Allblue 是我最近实际用下来印象比较深的一家老牌专线机场，整体风格很“稳”：没有太多花里胡哨的宣传，线路配置却比较"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
 
 <h2>如何找到可用的 sock5 免费代理列表？</h2>
 机场名称：Allblue

@@ -18,7 +18,6 @@ description: "为什么 Clash 连不上网络？排查与解决方案
 Totoro Cloud（龙猫云）- 低调专线机场，IPLC多入口负载测评
 Totoro Cloud（龙猫云）给我的第一印象就是“很低调但不花哨"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/机场节点购买.png)
 
 <h2>为什么 Clash 连不上网络？排查与解决方案</h2>
 机场名称：Totoro Cloud（龙猫云）

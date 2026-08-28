@@ -21,10 +21,6 @@ description: "为什么 Clash 配置文件下载失败及解决之道
 <h3>一、 网络连接与服务器问题</h3>
 <p>最直接的原因往往是网络环境高速免费机场节点本身。当您的设备无法稳定连接到互联网时，自然也无法成功下载任何网络资源，包括 Clash 配置文件。这可能是由于：
 
-
-
-![clash订阅](/img/clash%E8%AE%A2%E9%98%85.png)
-
 机场名称：WgetCloud(原GaCloud)
 
 <h2>WgetCloud(原GaCloud)-高端稳定，支持亚马逊专线加速。</h2>
@@ -42,9 +38,6 @@ description: "为什么 Clash 配置文件下载失败及解决之道
   <tr><td>https://sub1.example.com/wgetcloud</td></tr>
   <tr><td>https://sub2.example.com/wgetcloud</td></tr>
   <tr><td>https://sub3.example.com/wgetcloud</td></tr>
-
-
-![免费clash](/img/%E5%85%8D%E8%B4%B9clash.png)
 
 </table>
 
@@ -68,10 +61,6 @@ description: "为什么 Clash 配置文件下载失败及解决之道
 <p>当您发现“为什么 Clash 配置文件下载失败”时，第一步就应该从基础的网络连接入手进行排查。</p>
 <h3>二、 Clash 客户端与配置格式错误</h3>
 <p>Clash 本身或其配置文件的格式问题也可能导致下载或加载失败。
-
-![clash for windows节点](/img/clash%20for%20windows%E8%8A%82%E7%82%B9.png)
-
-
 
 机场名称：ImmortalCloud（不朽云）
 
@@ -156,7 +145,6 @@ description: "为什么 Clash 配置文件下载失败及解决之道
 
   <p>综合评分：8.6/10</p>
   <p>稳定性：8.7｜速度：8.5｜解锁能力：8.4｜性价比：8.8</p>
-
 
 <h4>免费试用订阅获取建议</h4>
 <p>对于新用户来说，通常会寻找免费试用订阅来体验服务。获取免费试用订阅时，建议从信誉良好的提供商处获取，并注意试用时长的限制以及后续是否需要付费。避免使用来路不明的免费节点分享，它们可能存在安全隐患或极不稳定的问题。</p>

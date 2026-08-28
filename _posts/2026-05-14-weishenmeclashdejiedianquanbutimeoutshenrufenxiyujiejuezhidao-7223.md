@@ -18,7 +18,6 @@ description: "为什么Clash的节点全部timeout？深入分析与解决之道
 TlyVPN 机场测评
 TlyVPN 是一家运营时间比较久的老牌服务，虽然名字带 VPN，但实际更偏向机场架构，主打 SS/SSR 协议，整体给我的感觉"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/clash免费订阅.png)
 
 <h2>为什么Clash的节点全部timeout？深入分析与解决之道</h2>
 机场名称：TlyVPN

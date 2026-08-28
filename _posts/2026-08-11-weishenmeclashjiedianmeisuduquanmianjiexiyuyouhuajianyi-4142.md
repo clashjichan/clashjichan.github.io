@@ -38,20 +38,12 @@ description: "为什么Clash节点没速度？全面解析与优化建议
 <h2>ImmortalCloud（不朽云）测评：主打 IEPL 专线的低延迟线路体验</h2>
 <p>ImmortalCloud（不朽云）这段时间在圈子里讨论度不低，主打的就是 IEPL 专线接入，整体卖点很直接：延迟低、线路稳、掉线少。实际体验下来，它更像是那种偏“稳扎稳打”的机场，不靠花里胡哨的节点数量取胜，而是把常用地区的质量做得比较到位。节点覆盖上以香港、日本、新加坡、美国为主，另外还补了一些韩国和英国节点，日常刷网页、看视频、远程办公基本够用。</p>
 
-![clash免费节点](/img/clash%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
-
-
 <table>
 <tr><td>套餐名称</td><td>价格</td><td>流量</td><td>设备数</td></tr>
 <tr><td>基础版</td><td>¥18/月</td><td>120GB</td><td>3台</td></tr>
 <tr><td>进阶版</td><td>¥38/月</td><td>320GB</td><td>5台</td></tr>
 <tr><td>旗舰版</td><td>¥68/月</td><td>800GB</td><td>8台</td></tr>
 </table>
-
-![clash节点推荐](/img/clash%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90.png)
-
-
 
 <table>
 <tr><td>免费URL订阅1</td><td>https://sub.immortalcloud.example/free1</td></tr>
@@ -101,7 +93,6 @@ description: "为什么Clash节点没速度？全面解析与优化建议
 
 综合评分：8.4/10。适合追求稳定、节点多、付款方便的用户，属于那种买了不太容易后悔的类型。
 
-
 <p><strong>小贴士：</strong> 对于像 Shadowrocket（小火箭）这类客户端，同样可以通过其内置的节点测试工具来评估节点质量。选择节点时，除了关注一次性的测速结果，更要留意其长期稳定性。</p>
 <h4>2. 优化 Clash 配置</h4>
 <ul>
@@ -129,10 +120,6 @@ description: "为什么Clash节点没速度？全面解析与优化建议
   <tr><td>月度基础包</td><td>18 元/月</td><td>200GB/月</td><td>支持多设备</td></tr>
   <tr><td>畅享大流量包</td><td>38 元/月</td><td>800GB/月</td><td>适合高频使用</td></tr>
 </table>
-
-![clash for windows节点](/img/clash%20for%20windows%E8%8A%82%E7%82%B9.png)
-
-
 
 <table>
   <tr><th>免费URL订阅链接</th></tr>

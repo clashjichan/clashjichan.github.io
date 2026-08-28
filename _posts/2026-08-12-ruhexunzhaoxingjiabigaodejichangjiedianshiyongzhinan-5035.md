@@ -42,10 +42,6 @@ description: "如何寻找性价比高的机场节点？实用指南
   <tr><td>大流量版</td><td>￥68/月</td><td>800GB</td><td>8台</td></tr>
 </table>
 
-
-
-![clash免费节点](/img/clash%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
 <table>
   <tr><td>免费URL订阅1</td><td>https://sub.starlink-demo.net/free1</td></tr>
   <tr><td>免费URL订阅2</td><td>https://sub.starlink-demo.net/free2</td></tr>
@@ -59,12 +55,8 @@ description: "如何寻找性价比高的机场节点？实用指南
 
 评分：8.8/10
 
-
 <h4>Clash 节点配置指南</h4>
 <p>Clash 是一款功能强大且高度可定制的网络代理客户端，支持多种协议，包括 SS、SSR、V2Ray、Trojan 等。配置 Clash 通常需要获取一个订阅链接，并将其添加到 Clash 的配置中。</p>
-
-![clash verge节点购买](/img/clash%20verge%E8%8A%82%E7%82%B9%E8%B4%AD%E4%B9%B0.png)
-
 
 <p><strong>配置步骤概览：</strong></p>
 <ol>
@@ -119,7 +111,6 @@ description: "如何寻找性价比高的机场节点？实用指南
 
 综合评分：8.6/10。流媒体解锁 9 分，稳定性 8.5 分，速度 8.2 分，价格 8.4 分，适合想省心看片的人。
 
-
 <h3>节点测速与稳定性对比考量</h3>
 <p>在选择<strong>性价比高的机场节点</strong>时，仅凭价格高低来判断是远远不够的。实际的测速和稳定性表现才是衡量服务质量的关键。以下是一些进行节点测速和评估稳定性的建议方法：</p>
 <ul>
@@ -167,9 +158,6 @@ description: "如何寻找性价比高的机场节点？实用指南
 </tr>
 <p>            <!-- 更多节点信息可在此处添加 --><br />
         </tbody>
-
-
-![clash for android](/img/clash%20for%20android.png)
 
 </table>
 <h3>免费试用订阅获取建议</h3>

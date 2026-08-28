@@ -19,7 +19,6 @@ FeijiCloud 机场测评｜知名度逐渐上升的活跃品牌
 
 FeijiCloud 这两年在圈子里存在感越来越强，属于那种“刚开始没太多人提，但用过"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/小火箭节点购买.png)
 
 <h2>为什么 Clash 国内无法上网？实用的解决办法与节点推荐</h2>
 机场名称：FeijiCloud

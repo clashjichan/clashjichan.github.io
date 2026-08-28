@@ -124,14 +124,6 @@ description: "为什么Clash不能翻墙了？深入分析与可行建议
   <tr><td>https://example.com/nexitally/free3</td></tr>
 </table>
 
-![clash免费节点](/img/clash%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9.png)
-
-
-
-![clash节点](/img/clash%E8%8A%82%E7%82%B9.png)
-
-
-
 <p>节点地区方面，这次测到的有香港、日本、新加坡、美国西海岸和英国伦敦，香港和日本的延迟最低，日常刷网页、视频会议基本没压力。测试数据里，香港节点平均延迟约 38ms，日本节点约 61ms，美国节点在 165ms 左右，晚高峰时香港节点速度还能保持在 220Mbps 上下，算是挺能打。流媒体解锁也比较完整，Netflix、Disney+、YouTube Premium 都能正常打开，部分地区节点还能解锁 BBC iPlayer。</p>
 
 <blockquote>
@@ -139,10 +131,6 @@ description: "为什么Clash不能翻墙了？深入分析与可行建议
 </blockquote>
 
 综合评分：9.1/10。稳定性 9.5，速度 8.8，解锁 9.4，性价比 8.4。
-
-![小火箭机场](/img/%E5%B0%8F%E7%81%AB%E7%AE%AD%E6%9C%BA%E5%9C%BA.png)
-
-
 
 </p>
 <ul>

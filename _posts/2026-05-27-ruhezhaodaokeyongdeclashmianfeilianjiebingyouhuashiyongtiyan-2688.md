@@ -18,7 +18,6 @@ description: "如何找到可用的 Clash 免费链接并免费节点机场高�
 Kuromis（库洛米）唯云专线测评：与奶昔同上游，稳定性确实不错
 Kuromis（库洛米）这条线我实际用了几天，整体感觉就"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/节点订阅推荐.png)
 
 <h2>如何找到可用的 Clash 免费链接并免费节点机场高速优化使用体验？</h2>
 机场名称：Kuromis（库洛米）唯云专线

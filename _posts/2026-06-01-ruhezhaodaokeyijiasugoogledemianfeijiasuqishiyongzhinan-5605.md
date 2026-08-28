@@ -18,7 +18,6 @@ description: "如何找到可以加速Google的免费加速器？实用指南
 YTOO（歪兔）老牌高端机场测评
 YTOO（歪兔）算是我近期复测里比较稳的一家老牌机场，整体风格就是“贵一点，但省心”。它主打高端线路，节点不是那种铺得特别多"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费clash节点.png)
 
 <h2>如何找到可以加速Google的免费加速器？实用指南</h2>
 机场名称：YTOO（歪兔）

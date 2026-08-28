@@ -13,8 +13,6 @@ keywords: "clash怎么导入自己的节点信息,clashfor andiord,clash为什�
 description: "<p>很多人第一次搜<strong>最便宜的机场多少块钱</strong>，并不是想一步到位买最贵的套餐，而是先想解决一个很现实的问题：晚上刷网页、看视频、开会，节点时不时掉线，到底有没有一个“先能用、别太贵”的办法。尤其是刚接触 Clash订阅、clash for windows 或 clash for android 的用户，常常会先试免费节点、共享节点，结果不是连不上，就是一更新就全失效。</p>"
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/六月一个月的机场订阅.png)
-
 ## 最便宜的机场多少块钱？便宜节点到底能不能长期用
 
 <p>很多人第一次搜<strong>最便宜的机场多少块钱</strong>，并不是想一步到位买最贵的套餐，而是先想解决一个很现实的问题：晚上刷网页、看视频、开会，节点时不时掉线，到底有没有一个“先能用、别太贵”的办法。尤其是刚接触 Clash订阅、clash for windows 或 clash for android 的用户，常常会先试免费节点、共享节点，结果不是连不上，就是一更新就全失效。</p>

@@ -19,7 +19,6 @@ description: "如何找到可靠的一元机场的订阅链接？
 
 酷酷云（KuKuCloud）这类机场我最近测了几天，整体印象比较偏“稳扎稳打”。它不是那种一上"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/tiktok机场推荐.png)
 
 <h2>如何找到可靠的一元机场的订阅链接？</h2>
 机场名称：酷酷云（KuKuCloud）

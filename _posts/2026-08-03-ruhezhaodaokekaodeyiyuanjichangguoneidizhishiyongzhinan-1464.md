@@ -18,7 +18,6 @@ description: "如何找到可靠的一元机场国内地址？实用指南
 Kuromis（库洛米）唯云专线测评：与奶昔同上游，稳定性确实不错
 Kuromis（库洛米）这条线我实际用了几天，整体感觉就是“稳”，不是那种测速爆表但"
 ---
-![Clash节点推荐](https://1yuanjichang.github.io/img/泰山net.png)
 
 <h2>如何找到可靠的一元机场国内地址？实用指南</h2>
 机场名称：Kuromis（库洛米）唯云专线

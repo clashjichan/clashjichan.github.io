@@ -18,7 +18,6 @@ description: "为什么 Clash 无法上国内网站？实用排查与解决建�
 FastLink 老牌服务商测评
 FastLink 算是那种用起来很省心的老牌服务商，主打多平台一键连接，Windows、macOS、iOS、Androi"
 ---
-![Clash节点推荐](https://clashjd.github.io/assets/img/免费节点订阅.png)
 
 <h2>为什么 Clash 无法上国内网站？实用排查与解决建议</h2>
 机场名称：FastLink

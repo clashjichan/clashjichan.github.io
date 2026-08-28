@@ -14,10 +14,7 @@ keywords: "discord浏览器网页版入口,clash安卓使用,clash连接成功�
 description: ""
 ---
 
-![Clash 推荐图](https://clashjd.github.io/assets/img/免费订阅机场.png)
-
 ## 最便宜的机场多少钱，便宜节点到底能不能正常用？
-
 
 <p>很多人第一次找机场，不是先问“稳不稳”，而是先问<strong>最便宜的机场多少钱</strong>。原因很现实：只是想先把 Clash 用起来，能刷网页、能看视频、能临时回消息就行，预算也不想一下子拉太高。</p>
 
